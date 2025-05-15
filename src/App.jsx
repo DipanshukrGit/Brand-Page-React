@@ -4,8 +4,8 @@ import Navigation from "./components/Navigation";
 const App = () => {
   return (
     <div>
-      <Navigation />
-      <HeroSection />
+      <Navigation /> //nav
+      <HeroSection />  //hero
     </div>
   );
 };
